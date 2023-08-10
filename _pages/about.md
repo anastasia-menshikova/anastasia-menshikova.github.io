@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am a PhD student at the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) in Norrköping, Sweden. My research focuses on discovering and explaining inequalities, biases, and discriminatory practices using textual digital traces. Besides, I am interested in social and cultural change - how changes in individual opinions, beliefs and meanings lead to shifts at a collective level. I am generally curious about using computational text analysis to answer sociological questions.
 
+Here you can check [my full CV](https://anastasia-menshikova.github.io/assets/cvMenshikovaAug2023.pdf)
+
 Along with learning how to do good research during my PhD journey, I find important making academia a friendlier place for women and making visible mental health issues so common among academics.
 
 PhD Studies
