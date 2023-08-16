@@ -12,7 +12,7 @@ I am a PhD student at the [Institute for Analytical Sociology](https://liu.se/en
 Along with learning how to do good research during my PhD time, I find important making academia a friendlier place for women and supporting open discussions of academics' mental health.
 
 PhD Studies
-======
+====
 I am doing my research under the umbrella of [Mining for Meaning](https://liu.se/en/research/computational-text-analysis) project. I study immigration debate in Sweden and beyond using computational text analysis methods and quasi-experimental designs. I use a combination of digital trace data from social media, digitized newspaper archives, survey data, and event databases in my work.
 
 Text Analysis Research Group at IAS
