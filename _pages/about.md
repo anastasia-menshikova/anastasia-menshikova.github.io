@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) in Norrköping, Sweden. My research focuses on cultural change at an individual and structural level in the context of public discourse. My PhD advisors are [Marc Keuschnigg](https://keuschnigg.org/), [Selcan Mutgan](https://www.selcanmutgan.com/), and [Måns Magnusson](https://www.mansmagnusson.com/). Here you can check [my full CV](https://anastasia-menshikova.github.io/assets/CV_menshikova_dec23.pdf).
+I am a PhD student at the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) in Norrköping, Sweden. My research focuses on cultural change at an individual and structural level in the context of public discourse. My PhD advisors are [Marc Keuschnigg](https://keuschnigg.org/), [Selcan Mutgan](https://www.selcanmutgan.com/), and [Måns Magnusson](https://www.mansmagnusson.com/). Here you can check [my full CV](https://anastasia-menshikova.github.io/assets/CV_menshikova_apr24.pdf).
 
 Along with learning how to do good research during my PhD time, I find important making academia a friendlier place for women and supporting open discussions of academics' mental health.
 
