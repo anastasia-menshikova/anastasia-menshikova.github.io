@@ -13,23 +13,21 @@ At the Institute for Analytical Sociology, I organize monthly (online or hybrid)
 
 ## Spring 2024
 
-*March 21st, 11 AM*
+*March 21st, 11 AM*\
+Hendrik Erz, the Institute for Analytical Sociology\
+A discussion of Lisa P. Argyle's paper and talk on using language models to simulate human samples\
 
-Hendrik Erz, the Institute for Analytical Sociology
+*April 18th, 11 AM*\
+Pierluigi Cassotti, University of Gothenburg\
+Modeling the Change: Using Diachronic Word Usage Graphs, XL-LEXEME, and contextualized word embeddings for detecting lexical semantic change\
 
-A discussion of Lisa P. Argyle's paper and talk on using language models to simulate human samples
+*May 23rd, 11 AM*\
+Petter Törnberg, University of Amsterdam\
+A discussion session on using LLMs for text analysis\
 
-*April 18th, 11 AM*
-Pierluigi Cassotti, University of Gothenburg
-Modeling the Change: Using Diachronic Word Usage Graphs, XL-LEXEME, and contextualized word embeddings for detecting lexical semantic change
-
-*May 23rd, 11 AM*
-Petter Törnberg, University of Amsterdam
-A discussion session on using LLMs for text analysis
-
-*June 13th, 11 AM*
-Ross Barker, London School of Economics
-Computational text analysis and its applications in demography
+*June 13th, 11 AM*\
+Ross Barker, London School of Economics\
+Computational text analysis and its applications in demography\
 
 ## Fall 2023
 
