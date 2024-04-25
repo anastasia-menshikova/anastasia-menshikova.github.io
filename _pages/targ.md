@@ -29,7 +29,7 @@ Computational text analysis and its applications in demography\
 
 ## Fall 2023
 
-*October 12th, 11 AM*\
+*October 12th, 5 PM*\
 Laura Nelson, the University of British Columbia\
 Generative Language Models for Social Science Research
 
@@ -44,6 +44,39 @@ Words of change: The increase of gender-inclusive language in German media
 *December 14th, 11 AM*\
 Hendrik Erz, the Institute for Analytical Sociology\
 Polarization and Paradigm Shifts in US Congressional Economic Policymaking: An Issue-Based Discourse Analysis Using Large Language Models
+
+## Spring 2023
+
+*January 12th, 11 AM*\
+Hendrik Erz, the Institute for Analytical Sociology\
+Using grammatical structures to measure the agency of individuals and organisations in texts\
+
+*February 9th, 11 AM*\
+Kristian Gade Kjelmann, Aalborg University\
+Word embeddings as a method for studying relevant semantic change and relating them to social science concepts\
+
+*March 16th, 11 AM*\
+Ana Macanovic, Utrecht University\
+Validation of constructs extracted from text using automatic text analysis methods\
+
+*April 6th, 11 AM*\
+Josef Ginnerskov, Uppsala University\
+Studying disciplinary change in Swedish sociology using a corpus of social science dissertations defended in Sweden\
+
+*June 1st, 11 AM*\
+Etienne Ollion, Institut Polytechnique de Paris\
+Annotating texts using Large Language Models\
+
+## Fall 2022
+
+*December 1st, 11 AM*\
+Ken Benoit, London School of Economics\
+The future of computational text analysis methods
+
+
+
+
+
 
 
 
