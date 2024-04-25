@@ -9,6 +9,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title : "Text Analysis Research Group"
+    url: /targ/
+
   #- title: "Teaching"
   #  url: /teaching/    
     
